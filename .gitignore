@@ -11,6 +11,10 @@
 # Generated files
 bin/
 gen/
+ThreadDemo/bin/
+ThreadDemo/obj/
+
+packages/
 
 # Gradle files
 .gradle/
